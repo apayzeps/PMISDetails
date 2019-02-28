@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>PMIS Details</name>
+        <order/>
+        <roles>x_snc_pmis.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 15:55:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad6cf91bdb3ba3801771f7b51d9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PMIS Details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
+        <sys_update_name>sys_ui_application_ad6cf91bdb3ba3801771f7b51d9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 15:55:22</sys_updated_on>
+    </sys_ui_application>
+</record_update>
