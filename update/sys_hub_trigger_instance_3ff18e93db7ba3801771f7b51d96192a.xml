@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-28 16:19:50</sys_created_on>
         <sys_id>3ff18e93db7ba3801771f7b51d96192a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>record_create</sys_name>
         <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
         <sys_update_name>sys_hub_trigger_instance_3ff18e93db7ba3801771f7b51d96192a</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-02-28 16:20:40</sys_updated_on>
+        <sys_updated_on>2019-02-28 17:56:31</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
