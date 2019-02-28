@@ -14,7 +14,7 @@
         <label>Project Details</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_snc_pmis_details</name>
-        <number_ref/>
+        <number_ref display_value="PRJD">55ddb19bdb3ba3801771f7b51d9619c5</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-28 15:55:18</sys_created_on>
         <sys_id>cc6cb9d7db3ba3801771f7b51d961931</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Project Details</sys_name>
         <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
         <sys_update_name>sys_db_object_cc6cb9d7db3ba3801771f7b51d961931</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-28 15:55:18</sys_updated_on>
+        <sys_updated_on>2019-02-28 16:01:39</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_snc_pmis.user" name="x_snc_pmis.user">906c791bdb3ba3801771f7b51d9619fc</user_role>
         <ws_access>true</ws_access>

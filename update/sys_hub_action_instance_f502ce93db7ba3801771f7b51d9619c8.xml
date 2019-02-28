@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Create Proejct Detail Record for new Projects">59028e93db7ba3801771f7b51d9619a9</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 16:19:57</sys_created_on>
+        <sys_id>f502ce93db7ba3801771f7b51d9619c8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
+        <sys_update_name>sys_hub_action_instance_f502ce93db7ba3801771f7b51d9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 16:19:57</sys_updated_on>
+        <ui_id>14f1b5fd-c1ed-4564-8594-6764eaf7daf9</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f502ce93db7ba3801771f7b51d9619c8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f502ce93db7ba3801771f7b51d9619c8</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 16:19:57</sys_created_on>
+        <sys_id>bd02ce93db7ba3801771f7b51d9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 16:19:57</sys_updated_on>
+        <value>x_snc_pmis_details</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f502ce93db7ba3801771f7b51d9619c8"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>f502ce93db7ba3801771f7b51d9619c8</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 16:19:57</sys_created_on>
+        <sys_id>7902ce93db7ba3801771f7b51d9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 16:19:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>f502ce93db7ba3801771f7b51d9619c8</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 16:19:57</sys_created_on>
+        <sys_id>3d02ce93db7ba3801771f7b51d9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 16:19:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>project={{Created_1.current}}</value>
+    </sys_element_mapping>
+</record_update>
