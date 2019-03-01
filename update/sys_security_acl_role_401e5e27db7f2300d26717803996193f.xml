@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-01 13:01:09</sys_created_on>
+        <sys_id>401e5e27db7f2300d26717803996193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_pmis_details.it_project_manager</sys_name>
+        <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
+        <sys_security_acl display_value="x_snc_pmis_details">c56cf91bdb3ba3801771f7b51d961958</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_401e5e27db7f2300d26717803996193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-01 13:01:09</sys_updated_on>
+        <sys_user_role display_value="it_project_manager" name="it_project_manager">e2ac29723732310033cb26877e41f18e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

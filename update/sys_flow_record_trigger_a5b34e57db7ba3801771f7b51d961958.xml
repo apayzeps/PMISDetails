@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="pm_project">u_project_detailsISEMPTY<item endquery="false" field="u_project_details" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
-        </condition>
+        <condition table="pm_project">u_project_detailsISEMPTY</condition>
         <name/>
         <on_delete>false</on_delete>
         <on_insert>false</on_insert>
