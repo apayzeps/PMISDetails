@@ -12,7 +12,7 @@
         <master>true</master>
         <name>Add Project Details Record for Existing Project</name>
         <outputs/>
-        <parent_flow display_value="Add Project Details Record for Existing Project">2f438657db7ba3801771f7b51d961930</parent_flow>
+        <parent_flow display_value="Add Project Detail Record for Existing Project">2f438657db7ba3801771f7b51d961930</parent_flow>
         <remote_trigger_id/>
         <sc_callable>false</sc_callable>
         <status>published</status>
