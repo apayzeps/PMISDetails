@@ -9,7 +9,7 @@
         <description/>
         <internal_name>create_proejct_detail_record_for_new_projects</internal_name>
         <label_cache>[{"name":"Created_1.current","label":"Trigger➛Project Record","reference":"pm_project","reference_display":"Project","type":"reference","base_type":"reference"},{"name":"14f1b5fd-c1ed-4564-8594-6764eaf7daf9.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"14f1b5fd-c1ed-4564-8594-6764eaf7daf9.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
-        <latest_snapshot>4028d617dbf32300d2671780399619e2</latest_snapshot>
+        <latest_snapshot>db9f154adb103300d267178039961991</latest_snapshot>
         <master_snapshot>59028e93db7ba3801771f7b51d9619a9</master_snapshot>
         <name>Create Proejct Detail Record for new Projects</name>
         <outputs/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-02-28 16:18:33</sys_created_on>
         <sys_id>c9b18a13db7ba3801771f7b51d961961</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Create Proejct Detail Record for new Projects</sys_name>
         <sys_package display_value="PMIS Details" source="x_snc_pmis">8c6cb9d7db3ba3801771f7b51d961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="PMIS Details">8c6cb9d7db3ba3801771f7b51d961931</sys_scope>
         <sys_update_name>sys_hub_flow_c9b18a13db7ba3801771f7b51d961961</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-02-28 17:56:31</sys_updated_on>
+        <sys_updated_on>2019-03-21 13:08:37</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=c9b18a13db7ba3801771f7b51d961961"/>
