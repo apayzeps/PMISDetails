@@ -14,6 +14,7 @@
         <element label="Project" max_length="32" name="project" reference="pm_project" type="reference"/>
         <element label="SAM #1" max_length="32" name="sam_1" reference="sys_user" type="reference"/>
         <element label="SAM #2" max_length="32" name="sam_2" reference="sys_user" type="reference"/>
+        <element label="SAM #3" max_length="32" name="sam_3" reference="sys_user" type="reference"/>
         <element label="Sponsor" max_length="32" name="sponsor" reference="sys_user" type="reference"/>
         <element label="Technical Lead" max_length="32" name="technical_lead" reference="sys_user" type="reference"/>
         <index name="index">
@@ -23,27 +24,30 @@
             <element name="division_priority"/>
         </index>
         <index name="index3">
-            <element name="sponsor"/>
+            <element name="sam_3"/>
         </index>
         <index name="index4">
-            <element name="sam_1"/>
+            <element name="sponsor"/>
         </index>
         <index name="index5">
-            <element name="cor"/>
+            <element name="sam_1"/>
         </index>
         <index name="index6">
-            <element name="technical_lead"/>
+            <element name="cor"/>
         </index>
         <index name="index7">
-            <element name="project"/>
+            <element name="technical_lead"/>
         </index>
         <index name="index8">
-            <element name="fac_status"/>
+            <element name="project"/>
         </index>
         <index name="index9">
-            <element name="geographical_locations"/>
+            <element name="fac_status"/>
         </index>
         <index name="index10">
+            <element name="geographical_locations"/>
+        </index>
+        <index name="index11">
             <element name="customer"/>
         </index>
     </element>

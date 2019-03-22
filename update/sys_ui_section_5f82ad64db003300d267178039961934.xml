@@ -4,13 +4,13 @@
             <element>sam_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>b1cb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>0d09ffc6db943300d26717803996192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>sam_2</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>35cb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>8d09ffc6db943300d26717803996192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cor</element>
+            <element>sam_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>b5cb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>0109ffc6db943300d267178039961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>39cb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>8109ffc6db943300d267178039961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>customer</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>b9cb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>0509ffc6db943300d267178039961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>customer_ranking</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>3dcb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>8509ffc6db943300d267178039961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>customer_priority</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-21 12:51:50</sys_created_on>
-            <sys_id>bdcb5586db103300d267178039961932</sys_id>
+            <sys_created_on>2019-03-22 00:18:49</sys_created_on>
+            <sys_id>0909ffc6db943300d267178039961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="General" display_value="General" name="x_snc_pmis_details" sys_domain="global" view="Default view">5f82ad64db003300d267178039961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-21 12:51:50</sys_updated_on>
+            <sys_updated_on>2019-03-22 00:18:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
